@@ -1,7 +1,5 @@
 #
-# Podstawy Sztucznej Inteligencji, IIS 2020
-# Autor: Tomasz Jaworski
-# Opis: Szablon kodu do stabilizacji odwróconego wahadła (patyka) w pozycji pionowej podczas ruchu wózka.
+# Template Author: Tomasz Jaworski
 #
 
 import gym # Instalacja: https://github.com/openai/gym
